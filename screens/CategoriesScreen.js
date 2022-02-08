@@ -1,8 +1,5 @@
 import React from "react";
 import { 
-    TouchableOpacity,
-    View, 
-    Text,
     StyleSheet, 
     FlatList, 
 } from "react-native";
